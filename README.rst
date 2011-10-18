@@ -1,6 +1,6 @@
-=========================
- SGIR -- IRC Bot in Scala
-=========================
+=============================
+ Exception Parser and Emailer
+=============================
 
 Simple Text File Parser
 
